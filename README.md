@@ -1,16 +1,17 @@
-## Hi there 👋
+#  Hey there! I’m Suraj, a tech enthusiast on a mission to push the boundaries of innovation. With a passion for coding, I love transforming ideas into dynamic tech solutions that make an impact. Let’s embark on this journey of creativity and technology together! 🙋‍♂️
 
-<!--
-**Suraj963/Suraj963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Java, Javascript, NodeJS, Express JS,  React Native, MySQL, MongoDB, React JS, HTML, CSS, GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Skills
+
+| ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) | ![JavaScript](https://img.icons8.com/fluency/48/javascript.png) | ![NodeJS](https://img.icons8.com/color/48/nodejs.png) | ![ExpressJS](https://img.icons8.com/color/48/express-js.png) | ![React Native](https://img.icons8.com/color/48/react-native.png) | ![MySQL](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| *Java* | *JavaScript* | *NodeJS* | *ExpressJS* | *React Native* | *MySQL* |
+
+| ![MongoDB](https://img.icons8.com/color/48/mongodb.png) | ![React JS](https://img.icons8.com/office/40/react.png) | ![HTML](https://img.icons8.com/color/48/html-5--v1.png) | ![CSS](https://img.icons8.com/fluency/48/css3.png) | ![GIT](https://img.icons8.com/color/48/git.png) |
+|:---:|:---:|:---:|:---:|:---:|
+| *MongoDB* | *React JS* | *HTML* | *CSS* | *GIT* |
