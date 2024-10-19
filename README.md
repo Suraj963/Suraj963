@@ -6,8 +6,6 @@ Java, Javascript, NodeJS, Express JS,  React Native, MySQL, MongoDB, React JS, H
 
 
 
-## 🛠 Skills
-
 | ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) | ![JavaScript](https://img.icons8.com/fluency/48/javascript.png) | ![NodeJS](https://img.icons8.com/color/48/nodejs.png) | ![ExpressJS](https://img.icons8.com/color/48/express-js.png) | ![React Native](https://img.icons8.com/color/48/react-native.png) | ![MySQL](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | *Java* | *JavaScript* | *NodeJS* | *ExpressJS* | *React Native* | *MySQL* |
